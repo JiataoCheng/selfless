@@ -1,0 +1,6 @@
+module Pods_selfless {
+  umbrella header "Pods-selfless-umbrella.h"
+
+  export *
+  module * { export * }
+}

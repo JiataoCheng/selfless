@@ -1,0 +1,12 @@
+{
+  "name": "selfless",
+  "displayName": "selfless",
+  "expo": {
+    "name": "selfless",
+    "slug": "selfless",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
